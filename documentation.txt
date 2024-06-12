@@ -1,0 +1,10 @@
+The .includes() method determines if an array contains an element and will return either true or false.
+
+Here is an example of the .includes() syntax:
+
+const numbersArray = [1, 2, 3, 4, 5]
+const number = 3
+if (numbersArray.includes(number)) {
+  console.log("The number is in the array.")
+}
+****************************
